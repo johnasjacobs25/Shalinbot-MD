@@ -19,7 +19,7 @@ global.APIKeys = {
     'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
     'https://api.neoxr.my.id': 'yourkey',
     'https://violetics.pw': 'beta',
-    'https://zenzapis.xyz': 'yourkey',
+    'https://zenzapis.xyz': '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',
     'https://api-fgmods.ddns.net': 'fg-dylux'
 };
 
